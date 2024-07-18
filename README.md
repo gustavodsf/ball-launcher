@@ -94,3 +94,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - Thanks to the software and hardware teams for their input and requirements.
 - Special thanks to the open-source community for providing the tools and libraries used in this project.
+
+### Video
+[loom video](https://www.loom.com/share/74dd6e9d6c064c8bb5a585bf350f009a?sid=fb416a37-7b48-49e2-ba50-a9c7ad063066)
